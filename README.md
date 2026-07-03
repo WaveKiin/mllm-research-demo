@@ -3,3 +3,8 @@ This baseline uses a small demo VQA dataset.
 
 Server-side note: this clone simulates a training machine.
 This repository is used to practice practical Git workflows for ML research.
+
+## Workflow Practice
+
+This repository includes hands-on Git workflow exercises.
+It covers branches, remotes, pull requests, tags, stash, rebase, and recovery workflows.
