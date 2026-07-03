@@ -3,3 +3,4 @@ dataset: demo-vqa
 learning_rate: 0.00001
 batch_size: 16
 epochs: 10
+scheduler: cosine
