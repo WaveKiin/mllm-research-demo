@@ -1,5 +1,5 @@
 model: baseline-mllm
 dataset: demo-vqa
-learning_rate: 0.00005
+learning_rate: 0.0002
 batch_size: 16
 epochs: 10
